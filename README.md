@@ -31,7 +31,7 @@ The released subset is intended to illustrate the characteristics of the dataset
 
 ## Dataset Download
 
-**Google Drive:** [Access the Dataset](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+**Google Drive:** https://drive.google.com/drive/folders/1szuQttMH7ds8WESNvX_THIJVn5Dyb8tH?usp=sharing
 
 ## Usage Notes
 
